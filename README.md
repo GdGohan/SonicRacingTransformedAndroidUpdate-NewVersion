@@ -42,4 +42,4 @@ configuration: volume=3db, stream=1 and vorbis encode
 
 Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98
 
--Team Sonic Racing Musics
+-Team Sonic Racing Music Mod
