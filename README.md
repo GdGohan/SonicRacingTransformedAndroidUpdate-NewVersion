@@ -23,7 +23,7 @@ It's not a guarantee, but it's a good alternative
 
 because it's a different version (even if it's old) 
 
--Forced game to load in 16:9 aspect ratio
+-Forced game to load in 16:9 aspect ratio (Go to settings > display > full screen apps and disable the game's full screen function)
 
 (Bug fixed:Buttons not showing)
 
