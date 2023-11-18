@@ -43,3 +43,7 @@ configuration: volume=3db, stream=1 and vorbis encode
 Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98
 
 -Team Sonic Racing Music Mod
+
+-Multiplayer
+
+Go to the first cup, finish it if you haven't already, and press the multiplayer icon (pressing on the home interface will not work)
