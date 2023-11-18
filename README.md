@@ -52,4 +52,5 @@ Go to the first cup, finish it if you haven't already, and press the multiplayer
 
 apk:choose one of these versions(to find out which is correct for your device, install the CPU-Z app):
 Adreno,Mali,PowerVr,Tegra
+
 obb:Android/obb/com.sega.sonic.transformed
