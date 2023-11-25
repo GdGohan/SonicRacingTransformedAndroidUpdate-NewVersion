@@ -45,6 +45,8 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (experimental) Voice: loop=0, stream=0 and ADPCM encode or volume=3db, stream=1 and vorbis encode
 
+probably: ADPCM and strem = 0 or 1
+
 (Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
 (experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
@@ -66,7 +68,7 @@ Possible solutions/Not working:
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
-4. Sound Editor
+4. Sound Editor (working)
 
 -Team Sonic Racing Music Mod
 
