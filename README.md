@@ -43,11 +43,13 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
-(not working) Voice: loop=0, stream=0 and ADPCM encode or stream=3 and vorbis encode
+(experimental) Voice: loop=0, stream=0 and ADPCM encode or stream=3 and vorbis encode
 
 (Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
-(Voice/sfx) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
+(experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
+
+(Voice) Coming soon a solution for editing these voice clips
 
 -Team Sonic Racing Music Mod
 
