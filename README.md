@@ -78,6 +78,10 @@ Jason Griffith Sonic Voice
 
 Fix-test(vfx+Ulala)
 
+Pck(Sound/Music): to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb
+
+xml: to install the mod manually, just copy the files to the "data/common/data/gamedata" folder of your obb
+
 -Multiplayer
 
 Go to the first cup, finish it if you haven't already, and press the multiplayer icon (pressing on the home interface will not work)
