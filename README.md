@@ -59,6 +59,8 @@ Possible solutions:
 
     FusionTools: wem id 0 = Ravioli Scanner: File0012
 
+    File size == or <=
+
 -Team Sonic Racing Music Mod
 
 -Multiplayer
