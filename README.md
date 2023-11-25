@@ -51,7 +51,7 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (Voice) Coming soon a solution for editing these voice clips
 
-Possible solution: use Ringing Bloom to open and export the .pck, open the new .pck in FusionTools and export again
+Possible solution: use Ringing Bloom to open and export the .pck, open the new .pck in FusionTools and export again, and make changes to the file using HxD
 
 -Team Sonic Racing Music Mod
 
