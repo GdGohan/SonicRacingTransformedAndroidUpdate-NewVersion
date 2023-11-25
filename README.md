@@ -37,15 +37,15 @@ original apk)
 
 -Custom Audio
 
+check audio type: https://katiefrogs.github.io/vgmstream-web/
+
 Wwise 2013:https://www.nexusmods.com/witcher3/mods/3234
 
 Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
-(experimental) Voice: loop=0, stream=0 and ADPCM encode or volume=3db, stream=1 and vorbis encode
-
-probably: ADPCM and strem = 0 or 1
+(experimental) Voice: loop=0, stream=0/1 and ADPCM encode
 
 (Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
