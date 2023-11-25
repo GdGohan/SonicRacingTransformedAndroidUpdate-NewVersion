@@ -57,7 +57,7 @@ Possible solutions:
 
 2. 	Ravioli Scanner: https://www.scampers.org/steve/sms/other.htm#ravioli_download
 
-FusionTools: wem id 0 = Ravioli Scanner: File0012
+    FusionTools: wem id 0 = Ravioli Scanner: File0012
 
 -Team Sonic Racing Music Mod
 
