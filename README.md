@@ -41,9 +41,13 @@ Wwise 2013:https://www.nexusmods.com/witcher3/mods/3234
 
 Music: volume=3db, loop=0, stream=1 and vorbis encode
 
-Audio(sfx): loop=0, stream=0/1 and ADPCM encode
+(not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
-Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98
+(not working) Voice: loop=0, stream=0 and ADPCM encode or stream=3 and vorbis encode
+
+(Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
+
+(Voice/sfx) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
 
 -Team Sonic Racing Music Mod
 
