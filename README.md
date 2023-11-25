@@ -45,7 +45,7 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
-(experimental) Voice: loop=0, stream=0/1 and ADPCM encode
+Voice: loop=0, stream=0 and ADPCM encode
 
 (Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
