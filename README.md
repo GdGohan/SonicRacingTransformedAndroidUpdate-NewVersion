@@ -74,11 +74,7 @@ Possible solutions/Not working:
 
 -Mods
 
-Team Sonic Racing Music Mod
-
-Jason Griffith Sonic Voice
-
-Fix-test(vfx+Ulala)
+Team Sonic Racing Music Mod And More
 
 Pck(Sound/Music): to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb
 
