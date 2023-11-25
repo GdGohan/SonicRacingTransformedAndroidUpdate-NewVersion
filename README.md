@@ -70,7 +70,13 @@ Possible solutions/Not working:
 
 4. Sound Editor (working)
 
--Team Sonic Racing Music Mod
+-Mods
+
+Team Sonic Racing Music Mod
+
+Jason Griffith Sonic Voice
+
+Fix-test(vfx+Ulala)
 
 -Multiplayer
 
