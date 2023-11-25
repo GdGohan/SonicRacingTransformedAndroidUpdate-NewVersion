@@ -49,7 +49,10 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
 
-(Voice) Coming soon a solution for editing these voice clips
+(Voice) Best Choice for editing: https://smacktalks.org/forums/topic/79306-released-sound-editor%C2%A0version-2101/ and
+to listen to the audios: https://www.nexusmods.com/mafiadefinitiveedition/mods/98
+
+Voice:
 
 Possible solutions/Not working: 
 
@@ -62,6 +65,8 @@ Possible solutions/Not working:
     File size == or <=
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
+
+4. Sound Editor
 
 -Team Sonic Racing Music Mod
 
