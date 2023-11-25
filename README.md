@@ -55,7 +55,7 @@ Possible solution: 1. use Ringing Bloom to open and export the .pck, open the ne
 
 2) 	Ravioli Scanner: https://www.scampers.org/steve/sms/other.htm#ravioli_download
 
-FusionTools - wem id 0 = wem id 12 - Ravioli Scanner
+FusionTools: wem id 0 = Ravioli Scanner: File0012
 
 -Team Sonic Racing Music Mod
 
