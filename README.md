@@ -61,6 +61,8 @@ Possible solutions:
 
     File size == or <=
 
+3.  export all wem and bnk files using FusionTools and create new pck with it
+
 -Team Sonic Racing Music Mod
 
 -Multiplayer
