@@ -52,7 +52,7 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 (experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
 
 (Voice) Best Choice for editing: https://smacktalks.org/forums/topic/79306-released-sound-editor%C2%A0version-2101/ and
-to listen to the audios: https://www.nexusmods.com/mafiadefinitiveedition/mods/98
+to listen to the audios + check id: https://www.nexusmods.com/mafiadefinitiveedition/mods/98
 
 Voice:
 
