@@ -43,13 +43,15 @@ Music: volume=3db, loop=0, stream=1 and vorbis encode
 
 (not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
-(experimental) Voice: loop=0, stream=0 and ADPCM encode or stream=3 and vorbis encode
+(experimental) Voice: loop=0, stream=0 and ADPCM encode or volume=3db, stream=1 and vorbis encode
 
 (Music) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
 (experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
 
 (Voice) Coming soon a solution for editing these voice clips
+
+Possible solution: use Ringing Bloom to open and export the .pck, open the new .pck in FusionTools and export again
 
 -Team Sonic Racing Music Mod
 
