@@ -41,7 +41,9 @@ check audio type: https://katiefrogs.github.io/vgmstream-web/
 
 Wwise 2013:https://www.nexusmods.com/witcher3/mods/3234
 
-Music: volume=3db, loop=0, stream=1 and vorbis encode
+Recommended audio db = 3 to 4.5
+
+Music: loop=0, stream=1 and vorbis encode
 
 (not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
