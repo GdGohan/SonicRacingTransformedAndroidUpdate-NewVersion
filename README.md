@@ -68,7 +68,7 @@ Possible solutions/Not working:
 
     FusionTools: wem id 0 = Ravioli Scanner: File0012
 
-    File size == or <=
+    File size < or = to the original
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
