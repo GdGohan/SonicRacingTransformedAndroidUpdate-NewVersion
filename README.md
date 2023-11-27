@@ -77,7 +77,9 @@ Possible solutions/Not working:
 
 4. Sound Editor (working) StreamsEng.pck only
 
-5. StreamsSpa.pck and others soon:)
+5. Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.pck)
+
+others coming soon
 
 -Mods
 
