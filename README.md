@@ -55,8 +55,11 @@ or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
 (experimental) HxD editor:https://mh-nexus.de/en/downloads.php?product=HxD20
 
-(Voice) Best Choice for editing (backup the .pck file before): https://smacktalks.org/forums/topic/79306-released-sound-editor%C2%A0version-2101/ and
-to listen to the audios + check id: https://www.nexusmods.com/mafiadefinitiveedition/mods/98
+(Voice) Best Choice for editing (backup the .pck file before): https://smacktalks.org/forums/topic/79306-released-sound-editor%C2%A0version-2101/
+
+alternative (Sound Editor 2018):https://smacktalks.org/forums/topic/68040-sound-editor-2018-released-version-141/page/12/
+
+and to listen to the audios + check id: https://www.nexusmods.com/mafiadefinitiveedition/mods/98
 
 Voice:
 
@@ -73,6 +76,8 @@ Possible solutions/Not working:
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
 4. Sound Editor (working)
+
+5. Sound Editor 2018 (working)
 
 -Mods
 
