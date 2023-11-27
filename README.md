@@ -80,7 +80,7 @@ Team Sonic Racing Music Mod And More
 
 -Installation (Mods)
 
-Pck(Sound/Music): to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb without compression
+pck: to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb without compression
 
 xml: to install the mod manually, just copy the files to the "data/common/data/gamedata" folder of your obb without compression
 
