@@ -85,7 +85,8 @@ Pck(Sound/Music): to install the mod manually, just copy the files to the "data/
 xml: to install the mod manually, just copy the files to the "data/common/data/gamedata" folder of your obb without compression
 
 Recommended: MT Manager
-store level
+
+compression level: store
 
 -Multiplayer
 
