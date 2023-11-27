@@ -75,9 +75,9 @@ Possible solutions/Not working:
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
-4. Sound Editor (working)
+4. Sound Editor (working) StreamsEng.pck
 
-5. Sound Editor 2018 (working)
+5. Sound Editor 2018 (working) StreamsSpa and others .pck
 
 -Mods
 
