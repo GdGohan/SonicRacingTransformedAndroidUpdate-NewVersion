@@ -75,9 +75,11 @@ Possible solutions/Not working:
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
-4. Sound Editor (working) StreamsEng.pck only
+4.  export all wem and bnk files using FusionTools and create new pck (sfx) with Sound Editor 2017/18 (working)
 
-5. Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.pck)
+5. Sound Editor (working) StreamsEng.pck only
+
+6. Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.pck)
 
 others coming soon
 
