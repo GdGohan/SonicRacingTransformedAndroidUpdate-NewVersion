@@ -78,7 +78,7 @@ Possible solutions/Not working:
 
 Team Sonic Racing Music Mod And More
 
--Install
+-Installation (Mods)
 
 Pck(Sound/Music): to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb without compression
 
@@ -92,7 +92,7 @@ compression level: store
 
 Go to the first cup, finish it if you haven't already, and press the multiplayer icon (pressing on the home interface will not work)
 
--Installation
+-Installation (Apk+Obb)
 
 apk:choose one of these versions(to find out which is correct for your device, install the CPU-Z app):
 Adreno,Mali,PowerVr,Tegra
