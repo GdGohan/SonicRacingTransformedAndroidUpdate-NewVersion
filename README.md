@@ -79,8 +79,9 @@ Possible solutions/Not working:
 
 5.  export all wem and bnk files using FusionTools and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
 
-   StreamsSpa: Voice = wem and Sfx = bnk
-   Others Streams: Voice = wem and bnk
+    StreamsSpa: Voice = wem and Sfx = bnk
+   
+    Others Streams: Voice = wem and bnk
 
 5,1. Modify with HxD Editor the default.pck file from "Sound Editor/templates", replace all code (make backup before):
 
