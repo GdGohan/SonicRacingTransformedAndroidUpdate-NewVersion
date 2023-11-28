@@ -81,7 +81,7 @@ Possible solutions/Not working:
 
     StreamsSpa: Voice = wem and Sfx = bnk
    
-    Others Streams: Voice = wem and bnk
+    Others Streams: Voice = wem + bnk
 
 5,1. Modify with HxD Editor the default.pck file from "Sound Editor/templates", replace all code (make backup before):
 
