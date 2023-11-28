@@ -75,7 +75,7 @@ Possible solutions/Not working:
 
 3.  export all wem and bnk files using FusionTools and create new pck with it
 
-4.  export all wem and bnk files using FusionTools and create new pck (sfx) with Sound Editor 2017/18 (working/not totally)
+4.  export all wem and bnk files using FusionTools and create new pck (sfx) with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working/not totally)
 
 5. Sound Editor (working) StreamsEng.pck only
 
