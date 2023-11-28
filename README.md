@@ -79,13 +79,13 @@ Possible solutions/Not working:
 
 (To use the other streams .pck in the Sound Editor):
 
-5.  export all wem and bnk files using FusionTools and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
+5.  export all wem and bnk files using FusionTools, export 2428910049.bnk and 1051509953.bnk using HxD Editor and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
 
     Voice = wem and Sfx = bnk
 
     or Voice = wem + bnk
 
-5,1. Modify with HxD Editor the default.pck file from "Sound Editor/templates", replace all code (make backup before):
+5,1. Modify with HxD Editor the default.pck file from the "Sound Editor/templates" folder, replace all code (make backup before):
 
 for StreamsSpa.pck:
 
@@ -102,8 +102,6 @@ Ita:
 Ger:
 
 41 4B 50 4B 58 51 00 00 01 00 00 00 20 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 1B 00 00 00 00 00 00 00 67 65 72 6D 61 6E 00 73 66 78 00 00 1E 00 00 00 24 B3 4B 00 01 00 00 00 0A 0D 00 00 74 88 00 00
-
-5,2. export 2428910049.bnk and 1051509953.bnk using HxD Editor
 
 Best Choice:
 
