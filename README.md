@@ -77,9 +77,27 @@ Possible solutions/Not working:
 
 4.  export all wem and bnk files using FusionTools and create new pck (sfx) with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working/not totally)
 
-5. Sound Editor (working) StreamsEng.pck only
+4,1. Modify with HxD Editor the default.pck file from "Sound Editor/templates", replace all code (make backup before):
 
-(Working/ not totally) (soon/wait for another method) Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
+for StreamsSpa.pck:
+
+41 4B 50 4B 58 51 00 00 01 00 00 00 28 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 00 00 00 00 18 00 00 00 01 00 00 00 73 66 78 00 73 70 61 6E 69 73 68 28 73 70 61 69 6E 29 00 00 1E 00 00 00 24 B3 4B 00 01 00 00 00
+
+Fra:
+
+41 4B 50 4B 58 51 00 00 01 00 00 00 28 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 23 00 00 00 00 00 00 00 66 72 65 6E 63 68 28 66 72 61 6E 63 65 29 00 73 66 78 00 00 1E 00 00 00 24 B3 4B 00 01 00 00 00
+
+Ita:
+
+41 4B 50 4B 58 51 00 00 01 00 00 00 20 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 1C 00 00 00 00 00 00 00 69 74 61 6C 69 61 6E 00 73 66 78 00 1E 00 00 00 24 B3 4B 00 01 00 00 00
+
+Ge:
+
+41 4B 50 4B 58 51 00 00 01 00 00 00 20 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 1B 00 00 00 00 00 00 00 67 65 72 6D 61 6E 00 73 66 78 00 00 1E 00 00 00 24 B3 4B 00 01 00 00 00
+
+6. Sound Editor (working) StreamsEng.pck only
+
+(Working/ wait) Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
 
 others coming soon
 
