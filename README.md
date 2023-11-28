@@ -97,7 +97,13 @@ Ger:
 
 6. Sound Editor (working) StreamsEng.pck only
 
-(Working) Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
+Custom pcks for Sound Editor: 
+
+Working:
+
+[StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
+
+With problem (no annunciator sound) but working:
 
 [StreamsIta](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsIta.zip)
 
