@@ -67,7 +67,7 @@ Possible solutions/Not working:
 
 1. use Ringing Bloom to open and export the .pck, open the new .pck in FusionTools and export again, and make changes to the file using HxD
 
-2. 	Ravioli Scanner: https://www.scampers.org/steve/sms/other.htm#ravioli_download (working/maybe)
+2. 	Ravioli Scanner: https://www.scampers.org/steve/sms/other.htm#ravioli_download (working)
 
     FusionTools: wem id 0 = Ravioli Scanner: File0012
 
