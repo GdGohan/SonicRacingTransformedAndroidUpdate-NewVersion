@@ -103,6 +103,8 @@ Ge:
 
 [StreamsGer](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsGer.zip)
 
+[StreamsFra](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsFra.zip)
+
 -Mods
 
 Team Sonic Racing Music Mod And More
