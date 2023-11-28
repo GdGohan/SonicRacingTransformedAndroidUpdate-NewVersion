@@ -97,9 +97,11 @@ Ge:
 
 6. Sound Editor (working) StreamsEng.pck only
 
-(Working/ wait) Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
+(Working) Custom pcks for Sound Editor: [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
 
-others coming soon
+[StreamsIta](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsIta.zip)
+
+[StreamsGer](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsGer.zip)
 
 -Mods
 
