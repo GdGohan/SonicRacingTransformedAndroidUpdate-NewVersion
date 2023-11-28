@@ -103,7 +103,7 @@ Working:
 
 [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
 
-With problem (no annunciator sound) but working:
+With problem (no annunciator sound) but working (a corrected version for each language coming soon):
 
 [StreamsIta](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsIta.zip)
 
