@@ -77,7 +77,7 @@ Possible solutions/Not working:
 
 4.  Sound Editor (working) StreamsEng.pck only
 
-(To use the other streams .pck in the Sound Editor):
+(To use the other streams .pck + soundbanks in the Sound Editor):
 
 5.  export all wem and bnk files using FusionTools, export 2428910049.bnk and 1051509953.bnk using HxD Editor and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
 
