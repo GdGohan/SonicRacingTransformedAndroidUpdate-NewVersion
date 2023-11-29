@@ -103,6 +103,10 @@ Ger:
 
 41 4B 50 4B 58 51 00 00 01 00 00 00 20 00 00 00 5C 02 00 00 D8 85 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 1B 00 00 00 00 00 00 00 67 65 72 6D 61 6E 00 73 66 78 00 00 1E 00 00 00 24 B3 4B 00 01 00 00 00 0A 0D 00 00 74 88 00 00
 
+SoundBanks.pck:
+
+41 4B 50 4B 58 51 00 00 01 00 00 00 24 00 00 00 E8 0C 00 00 04 00 00 00 04 00 00 00 02 00 00 00 14 00 00 00 01 00 00 00 1D 00 00 00 00 00 00 00 6A 61 70 61 6E 65 73 65 00 73 66 78 00 00 00 00 A5 00 00 00 24 B3 4B 00 01 00 00 00 0A 0D 00 00
+
 Best Choice:
 
 (Voice) Custom pcks for Sound Editor: 
@@ -114,6 +118,8 @@ Best Choice:
 [StreamsGer](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsGer.zip)
 
 [StreamsFra](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsFra.zip)
+
+[Soundbanks](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/Soundbanks.zip)
 
 -Mods
 
