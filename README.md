@@ -119,7 +119,7 @@ Best Choice:
 
 [StreamsFra](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsFra.zip)
 
-[Soundbanks](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/Soundbanks.zip)
+[SoundBanks](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/SoundBanks.zip)
 
 -Mods
 
