@@ -115,7 +115,7 @@ SoundBanks.pck:
 
 Best Choice:
 
-(Voice) Custom pcks for Sound Editor: 
+(Voice/Sfx) Custom pcks for Sound Editor: 
 
 [StreamsSpa](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/raw/main/CustomPcksForSoundEditor/StreamsSpa.zip)
 
