@@ -9,7 +9,7 @@ Sonic Racing Transformed GdGohan Edition
 
 -Greater compatibility with newer devices 
 
-and larger screens
+and larger screens (Fullscreen on APK V3)
 
 (possibility, considering that it loaded normally 
 
@@ -23,7 +23,7 @@ It's not a guarantee, but it's a good alternative
 
 because it's a different version (even if it's old) 
 
--Forced game to load in 16:9 aspect ratio (Go to Settings > display > full screen apps and disable the game's full screen function)
+-(APK V1/V2:Forced game to load in 16:9 aspect ratio (Go to Settings > display > full screen apps and disable the game's full screen function)
 
 Recommended DPI: 360 
 
