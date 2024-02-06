@@ -9,7 +9,7 @@ Sonic Racing Transformed GdGohan Edition
 
 -Greater compatibility with newer devices 
 
-and larger screens (Fullscreen on APK V3)
+and larger screens (Fullscreen Support in APK V3)
 
 (possibility, considering that it loaded normally 
 
