@@ -23,7 +23,9 @@ It's not a guarantee, but it's a good alternative
 
 because it's a different version (even if it's old) 
 
--Forced game to load in 16:9 aspect ratio V1/V2:(Go to Settings > display > full screen apps and disable the game's full screen function)
+APK V1/V2:
+
+-Forced game to load in 16:9 aspect ratio (Go to Settings > display > full screen apps and disable the game's full screen function)
 
 Recommended DPI: 360 
 
@@ -31,7 +33,7 @@ Step 1.(Go to Settings > About Phone, tap on the ‘Build Number’ 5 to 6 times
 
 Step 2.(Go to System > Developer Options, find the option ‘Smallest Width’ and enter the 360 value). Make sure to note down the default value so that you can restore it back.
 
-(Bug fixed:Buttons not showing)
+-Bug fixed:Buttons not showing
 
 -supports different obb, just edit the apk code 
 
