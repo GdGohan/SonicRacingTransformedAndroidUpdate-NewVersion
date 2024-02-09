@@ -53,7 +53,7 @@ Recommended audio db = 3 to 4.5
 
 Music: loop=0, stream=1 and vorbis encode
 
-(not tested) Audio(sfx): loop=0, stream=0/1 and ADPCM encode
+Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 
 Voice: loop=0, stream=0 and ADPCM encode
 
