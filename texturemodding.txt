@@ -10,7 +10,7 @@ ToolBox:https://github.com/KillzXGaming/Switch-Toolbox
 Terminal:
 cd ./platform-tools
 
-Recommended: Use PC Textures and Tegra Textures(need to implement dds header)
+Recommended: Use PC Textures and Tegra Textures (need to implement dds header)
 
 decode:
 add this header at the beginning of the tga.texture file using hxd editor:
