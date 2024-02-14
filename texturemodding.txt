@@ -29,7 +29,7 @@ compress:
 
 etc1tool --encodeNoHeader image.png
 
-rename .pkm to .texture
+rename .pkm to .texture (optional)
 
 Option 1 (HxD Editor):
 the file size must be equal or smaller
