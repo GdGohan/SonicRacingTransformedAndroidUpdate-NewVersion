@@ -1,0 +1,64 @@
+(TEST) EDITING TEXTURES (ETC1):
+Characters:
+Edit the .sao files from the "characters" folder or 
+the "localcharacters" folder and replace the .sao files 
+in both folders
+
+ToolBox:https://github.com/KillzXGaming/Switch-Toolbox
+(Rename .sao to .sp2/spc, drag and drop)
+
+Terminal:
+cd ./platform-tools
+
+Recommended: Use PC Textures
+
+decode:
+add this header at the beginning of the tga.texture file using hxd editor:
+
+50 4B 4D 20 31 30 00 00 01 00 01 00 01 00 01 00
+
+Width: 0x0100 = 256
+Height: 0x0100 = 256
+
+01 00 - width 01 00 - height 
+01 00 - original width 01 00 - original height
+
+etc1tool --decode example.tga.texture
+
+compress:
+
+etc1tool --encodeNoHeader image.png
+
+rename .pkm to .texture
+
+Option 1 (HxD Editor):
+the file size must be equal or smaller
+(in this case you must add several zeros, maybe it works or copy 
+the rest of the original file i.e. after the size of the new file 
+and paste into the new file to have the same byte length)
+
+copy all hex from the compressed file to the gpu file 
+(find the original value of the image and replace it with the new one)
+
+replace gpu.sao file in obb
+
+Option 2 (Import Texture):
+https://gamebanana.com/tuts/16975#H1_4
+https://github.com/Tyaap/ASRT_CpuGpuTool/releases
+Note: Check and make sure before importing that the new texture 
+you exported is either the exact same, or smaller than the texture 
+you exported.
+
+open the cpu.sao file in CpuGpuTool, directly rename the textures 
+to "test" and click the "Confirm" button, so the file name will appear 
+
+Open CpuGpuTool again or rename the textures to their original names,
+right click the texture from the list, select 
+"From File", "Replace", "GPU Data".
+
+replace cpu.sao and gpu.sao file in obb
+
+Extract: 
+
+Rename to "test" and extract the texture by right clicking, 
+selecting "To File" and then "GPU Data".

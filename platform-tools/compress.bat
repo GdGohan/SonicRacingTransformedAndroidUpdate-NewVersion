@@ -1,0 +1,1 @@
+etc1tool --encodeNoHeader adjusted_2.png
