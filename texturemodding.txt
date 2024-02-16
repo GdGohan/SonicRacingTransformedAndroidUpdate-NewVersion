@@ -5,7 +5,7 @@ the "localcharacters" folder and replace the .sao files
 in both folders
 
 ToolBox:https://github.com/KillzXGaming/Switch-Toolbox
-(Rename .sao to .sp2/spc, drag and drop)
+(Rename .sao to .spc, drag and drop)
 
 Terminal:
 cd ./platform-tools
