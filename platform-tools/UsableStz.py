@@ -6,7 +6,7 @@ def substituir_bytes(nome_arquivo, offset, novos_bytes):
 # Nome do arquivo a ser editado
 nome_arquivo = input("File: ")
 
-# Offset onde a substituição será feita (44 e 45 para 00 00)
+# Offset onde a substituição será feita (44 e 45 para 59 DA)
 offset = 0x00000044
 
 # Novos bytes a serem escritos
