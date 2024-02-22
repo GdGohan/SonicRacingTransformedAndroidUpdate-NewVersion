@@ -30,7 +30,7 @@ Width: 0x0100 = 256
 Height: 0x0100 = 256
 
 01 00 - width 01 00 - height 
-01 00 - original width 01 00 - original height
+01 00 - width 01 00 - height
 
 etc1tool --decode example.tga.texture
 
