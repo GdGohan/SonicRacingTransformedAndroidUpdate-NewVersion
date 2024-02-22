@@ -1,3 +1,12 @@
+ATC/ASTC:
+https://www.nexusmods.com/oblivion/mods/11852?tab=files
+https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.5.52
+https://github.com/abusenius/refreshed-astc-encoder/tree/master/Binary
+https://github.com/toji/texture-tester/issues/1
+
+Texture (DDS 256x256 ATC):
+44 44 53 20 7C 00 00 00 07 10 0A 00 00 01 00 00 00 01 00 00 00 80 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 04 00 00 00 41 54 43 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 10 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
 (TEST) EDITING TEXTURES (ETC1):
 Characters:
 Edit the .sao files from the "characters" folder or 
@@ -62,3 +71,36 @@ Extract:
 
 Rename to "test" and extract the texture by right clicking, 
 selecting "To File" and then "GPU Data".
+
+STZ (Sprites + Text):
+Texture View + Convert (DDS Format):
+https://wiki.vg-resource.com/Team_Sonic_Racing
+https://web.archive.org/web/20230513172444/https://zenhax.com/viewtopic.php?t=7099
+Extract + Reimport:
+offzip
+https://aluigi.altervista.org/mytoolz/offzip.zip
+
+DXT1 to ETC1 (DDS):
+(Hex): Rename DXT1 to ETC1
+
+DDS to PKM:
+ConvertDDStoPKM.py
+
+
+test-ignore(DevLog)
+GPU
+after last 67 41 6C 62 65 64 6F 54 65 78 74 75 72 65 00 00 00 00 00 00
+model skeleton
+before 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+android - before last <<<<
+pc - before last ªªªª ( AA AA AA AA )
+textures
+after 00
+
+
+Cpu
+Textures (all tga.texture), replace cpu textures
+
+
+skeleton_diff
