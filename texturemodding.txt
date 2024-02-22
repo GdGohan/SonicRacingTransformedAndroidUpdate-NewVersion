@@ -77,7 +77,6 @@ Texture View + Convert (DDS DXT1 Format):
 https://wiki.vg-resource.com/Team_Sonic_Racing
 https://web.archive.org/web/20230513172444/https://zenhax.com/viewtopic.php?t=7099
 Extract + Reimport:
-offzip
 https://aluigi.altervista.org/mytoolz/offzip.zip
 https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
 https://aluigi.altervista.org/mytoolz/packzip.zip
