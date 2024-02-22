@@ -10,7 +10,7 @@ nome_arquivo = input("File: ")
 offset = 0x00000044
 
 # Novos bytes a serem escritos
-novos_bytes = b'\x00\x00'
+novos_bytes = b'\x59\xDA'
 
 # Chama a função para substituir os bytes
 substituir_bytes(nome_arquivo, offset, novos_bytes)
