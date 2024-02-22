@@ -80,6 +80,9 @@ Extract + Reimport:
 offzip
 https://aluigi.altervista.org/mytoolz/offzip.zip
 https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
+packzip -o 0x(file number) raw file stz file
+packzip -o 0x00000308 00000308.dat iOSStartup_EN.stz
+https://aluigi.altervista.org/mytoolz/packzip.zip
 
 DXT1 to ETC1 (DDS):
 (Hex): Rename DXT1 to ETC1
