@@ -53,7 +53,7 @@ def main():
         stz_file_name = input("stz File: ")
         
         # Solicitar ao usuário para digitar o offset
-        offset = input("offset (PKM ID): ")
+        offset = input("offset (ID): ")
         
         offset = "0x" + offset
 
