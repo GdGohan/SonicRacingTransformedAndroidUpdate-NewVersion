@@ -12,7 +12,7 @@ echo Descomprimindo arquivo: %input%
 echo Para pasta: %output%
 
 mkdir "%output%"
-offzip.exe -a "%input%" "%output%" 0
+offzip.exe -a "%input%" "%output%"
 
 echo.
 echo Processo concluído.
