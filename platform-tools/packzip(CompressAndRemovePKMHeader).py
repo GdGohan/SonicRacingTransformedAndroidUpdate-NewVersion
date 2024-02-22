@@ -14,9 +14,13 @@ def remove_pkm_header(pkm_file_name):
     with open(pkm_file_path, 'rb') as pkm_file:
         # Ler o arquivo PKM completo
         pkm_data = pkm_file.read()
+        pkm_content = pkm_data
+        pkm_file.seek(0)
+        pkm_header = pkm_file.read(3)
         
-        # Remover o cabeçalho PKM (32 bytes)
-        pkm_content = pkm_data[32:]
+        # Remover o cabeçalho PKM (10 bytes)
+        if pkm_header == b'PKM':
+             pkm_content = pkm_data[16:]
 
     # Salvar o conteúdo PKM sem o cabeçalho em um novo arquivo .dat
     dat_file_path = f"{pkm_file_name}.dat"
