@@ -73,25 +73,30 @@ Rename to "test" and extract the texture by right clicking,
 selecting "To File" and then "GPU Data".
 
 STZ (Sprites + Text):
-Texture View + Convert (DDS Format):
+Texture View + Convert (DDS DXT1 Format):
 https://wiki.vg-resource.com/Team_Sonic_Racing
 https://web.archive.org/web/20230513172444/https://zenhax.com/viewtopic.php?t=7099
 Extract + Reimport:
 offzip
 https://aluigi.altervista.org/mytoolz/offzip.zip
 https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
+https://aluigi.altervista.org/mytoolz/packzip.zip
+
+(Optional) DXT1 to ETC1 (DDS):
+(Hex): Rename DXT1 to ETC1
+
+DDS to PKM:
+ConvertDDStoPKM.py
+
+PKM to PNG:
+decode.bat
+PNG to PKM:
+compress.bat
 
 1. (Hex) Remove PKM Header
 packzip -o 0x(file number) raw file stz file
 packzip -o 0x00000308 00000308.dat iOSStartup_EN.stz
 Or 2. packzip(CompressAndRemovePKMHeader).py
-https://aluigi.altervista.org/mytoolz/packzip.zip
-
-DXT1 to ETC1 (DDS):
-(Hex): Rename DXT1 to ETC1
-
-DDS to PKM:
-ConvertDDStoPKM.py
 
 
 test-ignore(DevLog)
