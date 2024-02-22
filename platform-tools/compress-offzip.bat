@@ -15,7 +15,7 @@ if "%~1"=="" (
     set "input=%~1"
 )
 
-offzip.exe -a -r "%input%" "%output%" 0
+offzip.exe -a -r "%input%" "%output%"
 
 echo.
 echo Processo concluído.
