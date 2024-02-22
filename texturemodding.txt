@@ -79,6 +79,7 @@ https://web.archive.org/web/20230513172444/https://zenhax.com/viewtopic.php?t=70
 Extract + Reimport:
 offzip
 https://aluigi.altervista.org/mytoolz/offzip.zip
+https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
 
 DXT1 to ETC1 (DDS):
 (Hex): Rename DXT1 to ETC1
