@@ -1,4 +1,4 @@
-ATC/ASTC:
+ATC/ASTC (Extra):
 https://www.nexusmods.com/oblivion/mods/11852?tab=files
 https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.5.52
 https://github.com/abusenius/refreshed-astc-encoder/tree/master/Binary
