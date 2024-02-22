@@ -84,7 +84,7 @@ https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
 1. (Hex) Remove PKM Header
 packzip -o 0x(file number) raw file stz file
 packzip -o 0x00000308 00000308.dat iOSStartup_EN.stz
-Or 2. CompressAndRemovePKMHeader.py
+Or 2. packzip(CompressAndRemovePKMHeader).py
 https://aluigi.altervista.org/mytoolz/packzip.zip
 
 DXT1 to ETC1 (DDS):
