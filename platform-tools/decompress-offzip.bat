@@ -3,7 +3,7 @@ set "input=%~1"
 set "output=%~dpn1_extracted"
 
 if "%~1"=="" (
-    set /p "input=Por favor, digite o nome do arquivo de entrada (sem a extensão): "
+    set /p "input=File: "
 ) else (
     set "input=%~1"
 )
