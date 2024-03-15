@@ -5,7 +5,7 @@ Sonic Racing Transformed GdGohan Edition
 
 •What changed in this version:
 
---V531960--
+--V531960/V534439/V545632--
 
 -Greater compatibility with newer devices 
 
