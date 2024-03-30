@@ -58,6 +58,8 @@ Audio(sfx): loop=0, stream=0/1 and ADPCM encode
 Voice: loop=0, stream=0 and ADPCM encode
 
 (Music) (Recommended) Fusion Tools:https://www.nexusmods.com/mafiadefinitiveedition/mods/98 
+.Net Core:
+(.Net Desktop)https://dotnet.microsoft.com/pt-br/download/dotnet/3.1
 
 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
