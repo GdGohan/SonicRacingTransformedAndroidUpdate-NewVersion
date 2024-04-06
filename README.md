@@ -3,6 +3,14 @@ https://drive.google.com/drive/folders/1I7E6y4MqFBFT2pyQ2cHkTp2CDtdYy9y6
 
 Sonic Racing Transformed GdGohan Edition
 
+UPDATE V4:
+Apk for all GPUs, using Mali obb
+
+When starting the tutorial, 
+wait a few seconds until the black screen no 
+longer appears, just in case, check if the game 
+has sound while waiting. Fixed only in adreno v2 folder
+
 •What changed in this version:
 
 --V530506/V531178G5/V531960/V534439/V545632--
