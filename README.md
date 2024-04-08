@@ -13,7 +13,7 @@ has sound while waiting. Fixed only in adreno v2 folder
 
 •What changed in this version:
 
---V530506/V530620/V531178G5/V531960/V534439/V545632--
+--V530506/V530620/V531178/V531960/V534439/V545632--
 
 -Greater compatibility with newer devices 
 
