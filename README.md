@@ -69,6 +69,8 @@ Voice: loop=0, stream=0 and ADPCM encode
 
 .Net Core:
 (.Net Desktop)https://dotnet.microsoft.com/pt-br/download/dotnet/3.1
+or
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-desktop-3.1.0-windows-x64-installer
 
 or Ringing Bloom:https://github.com/Silvris/RingingBloom/releases/tag/v2.1
 
