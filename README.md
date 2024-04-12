@@ -6,6 +6,9 @@ Sonic Racing Transformed GdGohan Edition
 UPDATE V4:
 Apk for all GPUs, using Mali obb
 
+V4.2B:
+the game will reboot once after setting your name. It only works with the achievement section.
+
 When starting the tutorial, 
 wait a few seconds until the black screen no 
 longer appears, just in case, check if the game 
