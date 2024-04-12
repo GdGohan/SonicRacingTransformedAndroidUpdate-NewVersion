@@ -161,7 +161,7 @@ compression level: store
 
 -Multiplayer
 
-Go to the first cup, finish it if you haven't already, and press the multiplayer icon (pressing on the home interface will not work)
+Go to the first cup, finish it if you haven't already, and press the multiplayer icon (pressing on the home interface will not work, only in version v4.2 that it works)
 
 -Installation (Apk+Obb)
 
