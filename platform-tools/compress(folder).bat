@@ -11,12 +11,12 @@ REM Define o caminho para o executável etc1tool
 set ETC1_TOOL_PATH="./etc1tool.exe"
 
 REM Cria a pasta 'converted' se ainda não existir
-if not exist "converted" mkdir "converted"
+if not exist "converted" mkdir "convertedpkm"
 
 REM Processa todos os arquivos PNG na pasta arrastada
 for %%I in ("%~1\*.png") do (
     echo Processando arquivo: %%I
-    %ETC1_TOOL_PATH% --encodeNoHeader "%%I" -o "converted\%%~nI.pkm"
+    %ETC1_TOOL_PATH% --encodeNoHeader "%%I" -o "convertedpkm\%%~nI.pkm"
 )
 
 echo Processamento concluído.
