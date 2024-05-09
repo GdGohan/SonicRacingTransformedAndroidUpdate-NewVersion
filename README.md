@@ -14,7 +14,7 @@ the game will reboot once after setting your name. It only works with the achiev
 When starting the tutorial, 
 wait a few seconds until the black screen no 
 longer appears, just in case, check if the game 
-has sound while waiting. Fixed only in adreno v2 folder
+has sound while waiting.
 
 •What changed in this version:
 
