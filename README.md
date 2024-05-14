@@ -6,7 +6,7 @@ https://www.youtube.com/@gdgohan460
 Sonic Racing Transformed GdGohan Edition
 
 UPDATE V4:
-Apk for all GPUs, using Mali obb (use obb from v4, is the most updated. The difference between GPU types in the game is only related to textures, and the textures in the Mali version uses ETC1, which supports any device from Android 4 onwards, with any GPU)
+Apk for all GPUs, using Mali obb (use obb from v4, is the most updated. The difference between GPU types in the game is only related to textures, and the textures in the Mali version uses ETC1, which supports any device from Android 4+, with any GPU)
 
 V4.2B:
 the game will reboot once after setting your name. It only works with the achievement section.
