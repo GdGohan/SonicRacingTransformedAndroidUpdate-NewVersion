@@ -7,6 +7,12 @@ I do not accept reuploads on new links
 
 https://www.youtube.com/@gdgohan460
 
+https://www.youtube.com/@ages_dot_mp4
+
+https://www.youtube.com/@Dr3wTheHedgehog
+
+https://www.youtube.com/@saronali1736
+
 Sonic Racing Transformed GdGohan Edition
 
 UPDATE V4:
