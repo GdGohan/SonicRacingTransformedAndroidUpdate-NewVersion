@@ -1,4 +1,4 @@
-iOSMainFE: 2048x26628
+iOSMainFE: 2048x26804
 iOSHUDElements: 1024x6136
 iOSStartup: 1024x2048
 GooglePlay: 512x1024
