@@ -115,7 +115,7 @@ Possible solutions/Not working:
 
 (To use the other streams .pck + soundbanks in the Sound Editor):
 
-5.  export all wem and bnk files using FusionTools or Ravioli Explorer, export 2428910049.bnk and 1051509953.bnk using HxD Editor (if necessary) and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
+5.  export all wem and bnk files using FusionTools or Ravioli Explorer (it may not work..... YES, YOU BETTER EXTRACT IT ONE BY ONE 💀 IN FUSIONTOOLS, IT'S THE SAFEST WAY), export 2428910049.bnk and 1051509953.bnk using HxD Editor or Ravioli Explorer (recommended) and create new pck with Sound Editor 2017/18 or Sound Editor 2.1.0.1 (working)
 
     Voice = wem and Sfx = bnk
 
