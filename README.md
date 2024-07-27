@@ -109,7 +109,7 @@ Possible solutions/Not working:
 
     File size < or = to the original
 
-3.  export all wem and bnk files using FusionTools and create new pck with it
+3.  export all wem and bnk files using FusionTools or Ravioli Explorer and create new pck with it
 
 4.  Sound Editor (working) StreamsEng.pck only
 
