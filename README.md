@@ -92,7 +92,7 @@ on my cell phone)
 
 It's not a guarantee, but it's a good alternative 
 
-because it's a different version (even if it's old) 
+because it's a different version (even if it's old, except V545632) 
 
 APK V1/V2:
 
