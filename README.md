@@ -28,8 +28,8 @@ Okay, now on to the actual guide. All the links posted below will be based on th
 
 ## Which OBB file to use?
 - `851.4 MB` **[(RECOMMENDED) Click here if you want to experience the game in it's mostly vanilla form.](https://drive.google.com/drive/folders/1LLCkQzGSewLm0Wt-w9rZ9Txh1YK5GCAq?usp=drive_link)** This is the way to experience the game as the original devs intended.
-- `974.6 MB` **[Click here if you want a modded experience](https://drive.google.com/drive/folders/1BoP8IRHxzz91omFqe5AZMqUUE8UTdOLA?usp=drive_link)**, courtesy of @GdGohan . This replaces the All-Star themes with their original soundtracks (instead of their remixes), and also alters the way the Main Menu and the on-screen HUD looks.
-   - `+ 129.4 MB` **[(OPTIONAL) Include this along with the main OBB](https://drive.google.com/drive/folders/1147NnpxYH7hvpUYTTP4m9kfgL0Mvh_Gj?usp=drive_link)** if you want the original SASRT opening video to play at launch.
+- `974.6 MB` **[Click here if you want a modded experience](https://drive.google.com/drive/folders/1BoP8IRHxzz91omFqe5AZMqUUE8UTdOLA?usp=drive_link)**, courtesy of @GdGohan . This replaces the Musics with their original soundtracks with high quality (instead of their remixes), and also alters the way the Main Menu and the on-screen HUD looks.
+   - `+ 129.4 MB` **[(OPTIONAL) Include this along with the main OBB](https://drive.google.com/drive/folders/1147NnpxYH7hvpUYTTP4m9kfgL0Mvh_Gj?usp=drive_link)** if you want the original SASRT opening video and Intel trailer to play at launch.
 - `564.8 MB (LITE)` **[Click here if you're tight on storage space.](https://drive.google.com/drive/folders/15peZ8hVWslCla0a9GQIkWzUgH1D1G3_e?usp=drive_link)** This is essentially the same as the vanilla OBB above, although I assume the music quality is further compressed to save space.
 
 ## Which APK to install?
