@@ -64,6 +64,7 @@ If you are using the Lite OBB, then you'll need the Lite variants of the APK, ot
 Hope this is useful to someone! I just wanted to post this somewhere people can see.
 
 
+
 UPDATE V4:
 Apk for all GPUs, using Mali obb (use obb from v4, is the most updated. The difference between GPU types in the game is only related to textures, and the textures in the Mali version uses ETC1, which supports any device from Android 4+, with any GPU)
 
