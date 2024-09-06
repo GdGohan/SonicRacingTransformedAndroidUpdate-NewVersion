@@ -15,7 +15,7 @@ https://www.youtube.com/@saronali1736
 
 Sonic Racing Transformed GdGohan Edition
 
-UPDATE (@20excal07):
+UPDATE ([@20excal07](https://github.com/20excal07)):
 
 First off, I wanna thank @GdGohan himself for having gone through the trouble of making this awesome game work on modern devices, he's done an excellent job on this. Keep it up (if there's any more to be done) :p
 
