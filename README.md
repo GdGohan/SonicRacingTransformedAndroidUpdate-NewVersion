@@ -15,6 +15,51 @@ https://www.youtube.com/@saronali1736
 
 Sonic Racing Transformed GdGohan Edition
 
+UPDATE (@20excal07):
+
+First off, I wanna thank @GdGohan himself for having gone through the trouble of making this awesome game work on modern devices, he's done an excellent job on this. Keep it up (if there's any more to be done) :p
+
+I'm writing this guide more as a way to guide people in the right direction on choosing which APK and which OBB to use it with, because the current description on how to get them is, well, a bit of a mess. It doesn't really help that the contents of the Google Drive is also kind of all over the place and confusing to navigate around for the average layperson looking to give this game a shot.
+
+Note that this guide will NOT be teaching you on how or where to put the OBB files in your phone, there are plenty of other resources for this. Here's a good one from Reddit that I personally recommend following:
+- **[r/Android: Managing files in the "Android/data" folder on Android 11 (without root or USB)](https://www.reddit.com/r/Android/comments/j3zgmm/managing_files_in_the_androiddata_folder_on/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)**
+
+Okay, now on to the actual guide. All the links posted below will be based on the V4 releases, unless otherwise noted.
+
+## Which OBB file to use?
+- `851.4 MB` **[(RECOMMENDED) Click here if you want to experience the game in it's mostly vanilla form.](https://drive.google.com/drive/folders/1LLCkQzGSewLm0Wt-w9rZ9Txh1YK5GCAq?usp=drive_link)** This is the way to experience the game as the original devs intended.
+- `974.6 MB` **[Click here if you want a modded experience](https://drive.google.com/drive/folders/1BoP8IRHxzz91omFqe5AZMqUUE8UTdOLA?usp=drive_link)**, courtesy of @GdGohan . This replaces the All-Star themes with their original soundtracks (instead of their remixes), and also alters the way the Main Menu and the on-screen HUD looks.
+   - `+ 129.4 MB` **[(OPTIONAL) Include this along with the main OBB](https://drive.google.com/drive/folders/1147NnpxYH7hvpUYTTP4m9kfgL0Mvh_Gj?usp=drive_link)** if you want the original SASRT opening video to play at launch.
+- `564.8 MB (LITE)` **[Click here if you're tight on storage space.](https://drive.google.com/drive/folders/15peZ8hVWslCla0a9GQIkWzUgH1D1G3_e?usp=drive_link)** This is essentially the same as the vanilla OBB above, although I assume the music quality is further compressed to save space.
+
+## Which APK to install?
+For this section, I'll list multiple links for each given scenario. Start from the top-most link (the best version), then try the next one if the APK didn't work for you.
+
+If you are using the Lite OBB, then you'll need the Lite variants of the APK, otherwise just use the normal ones.
+
+### Note that if you want proper gamepad support, you MUST use the ones that I'll mark below with a 🎮 emoji.
+
+- If your device's display doesn't have a notch, and has rectangular corners:
+   - Normal variants:
+      - 🎮 **[v4.2d (based on v545632)](https://drive.google.com/file/d/15uCQ0OPPRP8aDz4fREYa03muy_NgK4QP/view?usp=drive_link)**
+      - **[v4d (based on v534439)](https://drive.google.com/file/d/15qm9kVl0-msOSyG45hDTbFKsiThNt5XG/view?usp=drive_link)**
+      - **[v4 (based on v531960)](https://drive.google.com/file/d/1QlEv6_yjv0R27yDAfo-FL4sAvn1TOofP/view?usp=drive_link)**
+   - Lite variants:
+        - 🎮 **[Lite v4.2c (based on v545632)](https://drive.google.com/file/d/1ccFEdWLuOf1It0_WCANi9ZEOw6E1c8_p/view?usp=drive_link)**
+        - **[Lite v4c (based on v534439)](https://drive.google.com/file/d/1cZbPY--csmt00_LUbC1EDJlAirN7lsTR/view?usp=drive_link)**
+        - **[Lite v4 (based on v531960)](https://drive.google.com/file/d/18-A05iwfDwrPQMV9z3A1nM1ZZHPYy5r9/view?usp=drive_link)**
+
+- If your device's display has a notch and/or has rounded corners:
+<sup>(You're welcome to ignore this and just use the ones already listed above, but I highly recommend you use these for an optimal experience.)</sup>
+   - Normal variants:
+       - 🎮 **[v4.2c Smaller UI (based on v545632)](https://drive.google.com/file/d/1cTSTrAD5Q2lf1LSBGpKJH-iD8upZ4bi2/view?usp=drive_link)**
+       - **[v4c Smaller UI (based on v534439)](https://drive.google.com/file/d/1cXLr7mwcmuqxeV7WpNfyLsXY78BwreiI/view?usp=drive_link)**
+   - Lite variants:
+       - 🎮 **[v4.2 Smaller layout (based on v545632)](https://drive.google.com/file/d/18RLPWRwrrXT-0nWKlqJFNw0RjM9CAonO/view?usp=drive_link)**
+       - **[v4b Smaller layout (based on v534439)](https://drive.google.com/file/d/18ExwmTfgo-0ejdYBoNU9CeNWKmQXjVPj/view?usp=drive_link)**
+
+Hope this is useful to someone! I just wanted to post this somewhere people can see.
+
 UPDATE V4:
 Apk for all GPUs, using Mali obb (use obb from v4, is the most updated. The difference between GPU types in the game is only related to textures, and the textures in the Mali version uses ETC1, which supports any device from Android 4+, with any GPU)
 
