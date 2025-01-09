@@ -118,6 +118,9 @@ original apk)
 
 check audio type: https://katiefrogs.github.io/vgmstream-web/
 
+Extract Audios:
+https://github.com/f1ac/Wwise-Audio-Unpacker/releases/tag/1.3
+
 Wwise 2013:https://www.nexusmods.com/witcher3/mods/3234
 
 Recommended audio db = 3 to 4.5
