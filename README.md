@@ -118,7 +118,7 @@ original apk)
 
 check audio type: https://katiefrogs.github.io/vgmstream-web/
 
-Extract Audios:
+Extract audios:
 https://github.com/f1ac/Wwise-Audio-Unpacker/releases/tag/1.3
 
 Wwise 2013:https://www.nexusmods.com/witcher3/mods/3234
