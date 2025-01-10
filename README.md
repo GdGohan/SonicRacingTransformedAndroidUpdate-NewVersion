@@ -236,3 +236,7 @@ Adreno,Mali,PowerVr,Tegra
 (Recommended) v4: any apk
 
 obb:move the correct obb to the "Android/obb/com.sega.sonic.transformed" folder
+
+Fun fact: The game was probably made in Unity Engine 4
+![The game was probably made in Unity Engine 4](https://github.com/user-attachments/assets/296b356d-dedf-4be1-8d58-4530f62615af)
+
