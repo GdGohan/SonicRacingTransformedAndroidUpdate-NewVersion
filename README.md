@@ -121,7 +121,7 @@ original apk)
 
 -Custom Audio
 
-check audio type: https://katiefrogs.github.io/vgmstream-web/
+check audio type and convert to wav: https://katiefrogs.github.io/vgmstream-web/
 
 Extract audios:
 https://github.com/f1ac/Wwise-Audio-Unpacker/releases/tag/1.3
