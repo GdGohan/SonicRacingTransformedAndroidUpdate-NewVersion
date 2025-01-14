@@ -33,8 +33,9 @@ Okay, now on to the actual guide. All the links posted below will be based on th
 
 ## Which OBB file to use?
 - `851.4 MB` **[(Original) Click here if you want to experience the game in it's mostly vanilla form.](https://drive.google.com/drive/folders/1LLCkQzGSewLm0Wt-w9rZ9Txh1YK5GCAq?usp=drive_link)** This is the way to experience the game as the original devs intended.
-- `974.6 MB` **[Click here if you want a modded experience](https://drive.google.com/drive/folders/1BoP8IRHxzz91omFqe5AZMqUUE8UTdOLA?usp=drive_link)**, courtesy of @GdGohan . This replaces the Musics with their original soundtracks with high quality (instead of their remixes), and also alters the way the Main Menu and the on-screen HUD looks.
+- `800 MB` **[Click here if want a modded experience](https://drive.google.com/file/d/1ae5HuRstG_gBY67bnjFZQSKP3kVFQ2I5/view?usp=drivesdk)**, courtesy of @GdGohan . This replaces the Musics with their original soundtracks with high quality (instead of their remixes), and also alters the way the Main Menu and the on-screen HUD looks.
    - `+ 129.4 MB` **[(OPTIONAL) Include this along with the main OBB](https://drive.google.com/drive/folders/1147NnpxYH7hvpUYTTP4m9kfgL0Mvh_Gj?usp=drive_link)** if you want the original SASRT opening video and Intel trailer to play at launch.
+- `665 MB (LITE)` ****[Click here if you want to play with the models from the 3DS version.](https://drive.google.com/drive/folders/1b24hCSKn2EOXFNfLnRF27YU8SiXZvMaD)
 - `564.8 MB (LITE)` **[Click here if you're tight on storage space.](https://drive.google.com/drive/folders/15peZ8hVWslCla0a9GQIkWzUgH1D1G3_e?usp=drive_link)** This is essentially the same as the vanilla OBB above but without the "hd" models, with only the "ld" ones, although I assume the music quality is further compressed to save space.
 
 ## Which APK to install?
@@ -51,6 +52,7 @@ If you are using the Lite OBB, then you'll need the Lite variants of the APK, ot
       - **[v4d (based on v534439)](https://drive.google.com/file/d/15qm9kVl0-msOSyG45hDTbFKsiThNt5XG/view?usp=drive_link)**
       - **[v4 (based on v531960)](https://drive.google.com/file/d/1QlEv6_yjv0R27yDAfo-FL4sAvn1TOofP/view?usp=drive_link)**
    - Lite variants:
+        - 📂 **[Latest](https://drive.google.com/drive/folders/1ao9d61TQrWULvq1UpywPka6AAzzElK5p)**
         - 🎮 **[Lite v4.2c (based on v545632)](https://drive.google.com/file/d/1ccFEdWLuOf1It0_WCANi9ZEOw6E1c8_p/view?usp=drive_link)**
         - **[Lite v4c (based on v534439)](https://drive.google.com/file/d/1cZbPY--csmt00_LUbC1EDJlAirN7lsTR/view?usp=drive_link)**
         - **[Lite v4 (based on v531960)](https://drive.google.com/file/d/18-A05iwfDwrPQMV9z3A1nM1ZZHPYy5r9/view?usp=drive_link)**
