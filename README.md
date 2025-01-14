@@ -46,6 +46,7 @@ If you are using the Lite OBB, then you'll need the Lite variants of the APK, ot
 
 - If your device's display doesn't have a notch, and has rectangular corners:
    - Normal variants:
+      - 📂 **[Latest](https://drive.google.com/drive/folders/15Vo_5ReCqO0dtxRoQhrZVboGNr5kHBjv)**
       - 🎮 **[v4.2d (based on v545632)](https://drive.google.com/file/d/15uCQ0OPPRP8aDz4fREYa03muy_NgK4QP/view?usp=drive_link)**
       - **[v4d (based on v534439)](https://drive.google.com/file/d/15qm9kVl0-msOSyG45hDTbFKsiThNt5XG/view?usp=drive_link)**
       - **[v4 (based on v531960)](https://drive.google.com/file/d/1QlEv6_yjv0R27yDAfo-FL4sAvn1TOofP/view?usp=drive_link)**
