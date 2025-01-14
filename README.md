@@ -237,6 +237,21 @@ Adreno,Mali,PowerVr,Tegra
 
 obb:move the correct obb to the "Android/obb/com.sega.sonic.transformed" folder
 
+
+(EN) Sonic Racing Transformed Informations:
+
+"The console and PlayStation Vita versions run on a new internal engine, codenamed 'Sumo', at 30 fps, while the 3DS version was built from the ground up"
+
+http://web.archive.org/web/20121127210755/http://www.sonicstadium.org/2012/05/steve-lycett-answers-fans/
+
+Steve:
+Oh… Good question. New engine is imaginatively named Sumo Engine, but we use the Starlight editor to build everything, so generally we refer to it as Starlight. You’ll remember we used Sunshine last time, so I guess it’s an upgrade! We’ve been working on this for about a year and a half, switching to the new engine 6 months in. Caused us a few headaches, but the results are there on the screen
+Wait till you see a level with fully dynamic lights…
+
+Steve:
+Sumo Engine powers everything but the 3DS. 3DS is being built from the ground up. As always we’re aiming to deliver the same experience and try and take in some of each consoles features along the way. We’re unlikely to use the PS3 assets directly on 3DS, but we do have a dedicated team who are taking the big assets and modifying them suitably
+
+
 Fun fact: The game was probably made in Unity Engine 4
 ![The game was probably made in Unity Engine 4](https://github.com/user-attachments/assets/296b356d-dedf-4be1-8d58-4530f62615af)
 
