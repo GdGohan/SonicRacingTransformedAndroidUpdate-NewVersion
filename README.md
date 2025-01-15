@@ -253,8 +253,3 @@ Wait till you see a level with fully dynamic lights…
 
 Steve:
 Sumo Engine powers everything but the 3DS. 3DS is being built from the ground up. As always we’re aiming to deliver the same experience and try and take in some of each consoles features along the way. We’re unlikely to use the PS3 assets directly on 3DS, but we do have a dedicated team who are taking the big assets and modifying them suitably
-
-
-Fun fact: The game was probably made in Unity Engine 4
-![The game was probably made in Unity Engine 4](https://github.com/user-attachments/assets/296b356d-dedf-4be1-8d58-4530f62615af)
-
