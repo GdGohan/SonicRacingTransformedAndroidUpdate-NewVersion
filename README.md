@@ -243,6 +243,8 @@ obb:move the correct obb to the "Android/obb/com.sega.sonic.transformed" folder
 
 (EN) Sonic Racing Transformed Informations:
 
+(2012)
+
 "The console and PlayStation Vita versions run on a new internal engine, codenamed 'Sumo', at 30 fps, while the 3DS version was built from the ground up"
 
 http://web.archive.org/web/20121127210755/http://www.sonicstadium.org/2012/05/steve-lycett-answers-fans/
@@ -253,3 +255,12 @@ Wait till you see a level with fully dynamic lights…
 
 Steve:
 Sumo Engine powers everything but the 3DS. 3DS is being built from the ground up. As always we’re aiming to deliver the same experience and try and take in some of each consoles features along the way. We’re unlikely to use the PS3 assets directly on 3DS, but we do have a dedicated team who are taking the big assets and modifying them suitably
+
+(2024)
+
+(Android) Steve:
+It's a port of the imaginately titled 'Sumo Engine' which we developed for the console and PC versions of the game. We used the Vita version assets as a base *i think*. Typically each platform is exported and conditioned seperately in terms of texture format, mesh data, animation data and lods
+
+Depending how complicated you want your life to be, in theory it may be possible to pull the assets out of the PC or console version of the game and convert the data to work with the mobile version. The mobile version uses much of the same code as the other versions.The lighting won't be as nice as mobile (and Vita) used forward rendering VS the deferred rendering used for Xbox 360, PS3 and PC. But... you'd get nicer textures and models.
+
+I recall we got good reviews and SEGA were vary happy with the engagement of the game. We moved onto other projects and as Android got updated, SDK changes broke various things and though both sides had a desire to fix things, other projects and commitments got in the way. Eventually the game got delisted, and, well the rest you know!
