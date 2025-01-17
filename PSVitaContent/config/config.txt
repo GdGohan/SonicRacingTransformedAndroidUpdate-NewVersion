@@ -1,0 +1,3 @@
+//Always use caps and no spaces between assignments
+E3DEMO=0
+REGION=EU 
