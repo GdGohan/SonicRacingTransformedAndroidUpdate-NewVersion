@@ -9,6 +9,9 @@ https://drive.google.com/drive/folders/1I7E6y4MqFBFT2pyQ2cHkTp2CDtdYy9y6
 
 I do not accept reuploads on new links 
 
+Everything related to the android port!
+https://t.me/RacingTransformed
+
 https://www.youtube.com/@gdgohan460
 
 https://www.youtube.com/@ages_dot_mp4
