@@ -86,7 +86,7 @@ decode.bat
 PNG to PKM:
 compress.bat
 
-Decompress STZ
+Decompress STZ:
 decompress-offzip.bat
 
 1. (Hex) Remove PKM Header
