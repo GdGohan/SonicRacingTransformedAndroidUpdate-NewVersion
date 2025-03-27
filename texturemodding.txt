@@ -1,12 +1,3 @@
-ATC/ASTC (Extra):
-https://www.nexusmods.com/oblivion/mods/11852?tab=files
-https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.5.52
-https://github.com/abusenius/refreshed-astc-encoder/tree/master/Binary
-https://github.com/toji/texture-tester/issues/1
-
-Texture (DDS 256x256 ATC):
-44 44 53 20 7C 00 00 00 07 10 0A 00 00 01 00 00 00 01 00 00 00 80 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 04 00 00 00 41 54 43 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 10 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-
 (TEST) EDITING TEXTURES (ETC1):
 Characters:
 Edit the .sao files from the "characters" folder or 
@@ -19,7 +10,8 @@ ToolBox:https://github.com/KillzXGaming/Switch-Toolbox
 Terminal:
 cd ./platform-tools
 
-Recommended: Use PC Textures and Tegra Textures (need to implement dds header)
+Optional: Use PC Textures and Tegra Textures (need to implement dds header)
+recommended for finding out height and width dimensions of images
 
 decode:
 add this header at the beginning of the tga.texture file using hxd editor:
@@ -78,8 +70,10 @@ https://wiki.vg-resource.com/Team_Sonic_Racing
 https://web.archive.org/web/20230513172444/https://zenhax.com/viewtopic.php?t=7099
 Extract + Reimport:
 https://aluigi.altervista.org/mytoolz/offzip.zip
+or https://www.unknowncheats.me/forum/downloads.php?do=file&id=26914
 https://www.360haven.com/forums/showthread.php/14885-Packzip-Offzip-GUI
 https://aluigi.altervista.org/mytoolz/packzip.zip
+or http://web.archive.org/web/20241128103159/https://aluigi.altervista.org/mytoolz/packzip.zip
 
 (Optional) DXT1 to ETC1 (DDS):
 (Hex): Rename DXT1 to ETC1
@@ -115,3 +109,12 @@ Textures (all tga.texture), replace cpu textures
 
 
 skeleton_diff
+
+Ignore - ATC/ASTC (Extra):
+https://www.nexusmods.com/oblivion/mods/11852?tab=files
+https://github.com/GPUOpen-Tools/compressonator/releases/tag/V4.5.52
+https://github.com/abusenius/refreshed-astc-encoder/tree/master/Binary
+https://github.com/toji/texture-tester/issues/1
+
+Texture (DDS 256x256 ATC):
+44 44 53 20 7C 00 00 00 07 10 0A 00 00 01 00 00 00 01 00 00 00 80 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 04 00 00 00 41 54 43 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 10 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
