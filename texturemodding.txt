@@ -14,7 +14,7 @@ Optional: Use PC Textures and Tegra Textures (need to implement dds header)
 recommended for finding out height and width dimensions of images
 
 decode:
-add this header at the beginning of the tga.texture file using hxd editor:
+add this header at the beginning of the tga.texture or pkm (if there is no header) file using hxd editor:
 
 50 4B 4D 20 31 30 00 00 01 00 01 00 01 00 01 00
 
@@ -85,6 +85,9 @@ PKM to PNG:
 decode.bat
 PNG to PKM:
 compress.bat
+
+Decompress STZ
+decompress-offzip.bat
 
 1. (Hex) Remove PKM Header
 packzip -o 0x(file number) raw file stz file
