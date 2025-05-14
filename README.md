@@ -1,7 +1,7 @@
 # SonicRacingTransformedAndroidUpdate-NewVersion
 [***Download***](https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion/releases/tag/v4d)
 
-Try Virtual Master (Virtual Android 7) for Android 14 onwards
+Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards (32bits only, maybe some virtual machine with 32bits support will work on 64bits)
 
 [***Mods***](https://drive.google.com/drive/folders/1P9eCuwXLgSRZ1KPY2Lg-14zpwn8eZGhg)
 
