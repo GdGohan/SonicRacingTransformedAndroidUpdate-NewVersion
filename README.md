@@ -3,6 +3,8 @@
 
 Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards (32bits only, maybe some virtual machine with 32bits support will work on 64bits)
 
+[**VPhoneOS Method for Android 14+**](https://youtu.be/DEQvD1pGS-I?feature=shared)
+
 [***Mods***](https://drive.google.com/drive/folders/1P9eCuwXLgSRZ1KPY2Lg-14zpwn8eZGhg)
 
 https://drive.google.com/drive/folders/1I7E6y4MqFBFT2pyQ2cHkTp2CDtdYy9y6
