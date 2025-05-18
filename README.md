@@ -2,7 +2,7 @@
 
 ## Android 14+
 - 32Bits only
- - Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards (32bits only, some virtual machines may support 32-bit on 64-bit devices)
+ - Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards
 
 - 64Bits Support (Experimental)
  - [**VPhoneOS Method for Android 14+**](https://youtu.be/DEQvD1pGS-I?feature=shared)
