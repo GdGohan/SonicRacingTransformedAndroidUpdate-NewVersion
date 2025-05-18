@@ -51,8 +51,8 @@ If you are using the Lite OBB, then you'll need the Lite variants of the APK, ot
 ### Note that if you want proper gamepad support, you MUST use the ones that I'll mark below with a 🎮 emoji.
 
 - If your device's display doesn't have a notch, and has rectangular corners:
-   - 🎮 **v4.2d (based on v545632)**
-   - **v4d (based on v534439)**
+   # 🎮 **v4.2d (based on v545632)**
+   # **v4d (based on v534439)**
    - Normal variants:
       - 📂 **[Latest](https://drive.google.com/drive/folders/15Vo_5ReCqO0dtxRoQhrZVboGNr5kHBjv)**
       - **[v4 (based on v531960)](https://drive.google.com/file/d/1QlEv6_yjv0R27yDAfo-FL4sAvn1TOofP/view?usp=drive_link)**
