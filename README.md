@@ -1,8 +1,11 @@
 # SonicRacingTransformedAndroidUpdate-NewVersion
 
-Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards (32bits only, maybe some virtual machine with 32bits support will work on 64bits)
+## Android 14+
+- 32Bits only
+ - Try Virtual Master (Virtual Android 7) or Shizuku with Install with options for Android 14 onwards (32bits only, some virtual machines may support 32-bit on 64-bit devices)
 
-[**VPhoneOS Method for Android 14+**](https://youtu.be/DEQvD1pGS-I?feature=shared)
+- 64Bits Support (Experimental)
+ - [**VPhoneOS Method for Android 14+**](https://youtu.be/DEQvD1pGS-I?feature=shared)
 
 [***Mods***](https://drive.google.com/drive/folders/1P9eCuwXLgSRZ1KPY2Lg-14zpwn8eZGhg)
 
