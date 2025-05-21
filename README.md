@@ -226,7 +226,7 @@ Team Sonic Racing Music Mod And More
 
 pck: to install the mod manually, just copy the files to the "data/common/data/sound" folder of your obb without compression
 
-xml: to install the mod manually, just copy the files to the "data/common/data/gamedata" folder of your obb without compression or with normal compression
+xml: to install the mod manually, just copy the files to the "data/common/data/gamedata" folder of your obb without compression or with normal compression (excpet HUDSetup.xml)
 
 Recommended: MT Manager
 
