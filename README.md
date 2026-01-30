@@ -269,3 +269,5 @@ It's a port of the imaginately titled 'Sumo Engine' which we developed for the c
 Depending how complicated you want your life to be, in theory it may be possible to pull the assets out of the PC or console version of the game and convert the data to work with the mobile version. The mobile version uses much of the same code as the other versions.The lighting won't be as nice as mobile (and Vita) used forward rendering VS the deferred rendering used for Xbox 360, PS3 and PC. But... you'd get nicer textures and models.
 
 I recall we got good reviews and SEGA were vary happy with the engagement of the game. We moved onto other projects and as Android got updated, SDK changes broke various things and though both sides had a desire to fix things, other projects and commitments got in the way. Eventually the game got delisted, and, well the rest you know!
+
+<!-- Issue #1 addressed -->
